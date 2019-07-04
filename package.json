@@ -1,0 +1,17 @@
+{
+  "name": "titan-graphql",
+  "version": "0.1.0",
+  "description": "Titan - GraphQL module",
+  "main": "lib/index.js",
+  "author": "Benjamin HAMON <benjamin@hamon.sh>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bhamon/titan-graphql.git"
+  },
+  "dependencies": {
+    "extend": "^3.0.2",
+    "graphql": "^14.4.0",
+    "hashlru": "^2.3.0"
+  }
+}
